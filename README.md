@@ -1,6 +1,6 @@
 # 📊 Desafio de Projeto DIO - Processamento de Dados Simplificado com Power BI
 
-Este repositório contém um projeto de integração e processamento de dados utilizando **MySQL e Power BI**, com foco na extração, transformação e análise de dados para geração de insights valiosos.
+Este repositório contém um projeto de integração e processamento de dados utilizando **MySQL e Power BI**, com foco na extração, transformação e análise de dados para geração de insights.
 
 ## 🚀 Objetivo do Projeto
 O objetivo deste projeto é demonstrar o carregamento, transformação e análise de dados de um banco relacional MySQL dentro do Power BI, garantindo a integridade e organização dos dados para visualizações eficientes.
