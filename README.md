@@ -83,7 +83,7 @@ LEFT JOIN employee e ON d.Mgr_ssn = e.Ssn;
 ```
 
 ## 📌 Conclusão
-Com essas transformações, criamos uma base de dados mais limpa e estruturada, pronta para análises e visualizações eficientes dentro do Power BI. Esse processo permite tomadas de decisão mais embasadas e facilita a exploração de insights sobre funcionários, departamentos, projetos e carga de trabalho.
+Com essas transformações, criamos uma base de dados mais limpa e estruturada, pronta para análises e visualizações eficientes dentro do Power BI. Esse processo permite a modelagem das atividades desenvolvidas no contexto proposto e torna tomadas de decisão mais embasadas ao facilitar a exploração de insights sobre funcionários, departamentos, projetos e carga de trabalho.
 
 ## 🛠 Tecnologias Utilizadas
 - **MySQL** para armazenamento e manipulação dos dados
